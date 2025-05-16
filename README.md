@@ -8,7 +8,7 @@ Fork the repository to complete course exercises
 
 ## Commands
 
-Start by running `npm install` inside the project folder
+Start by running hola carlos `npm install` inside the project folder
 
 `npm start` to run the webpack dev server
 `npm test` to run tests
